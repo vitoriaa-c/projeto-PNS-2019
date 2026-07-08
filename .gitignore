@@ -1,0 +1,14 @@
+# Base de dados
+base/
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
