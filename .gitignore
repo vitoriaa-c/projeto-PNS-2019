@@ -1,14 +1,20 @@
-# Base de dados
-base/
+# Microdados
+dados/*.txt
+dados/*.csv
+dados/*.parquet
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
 
 # Python
 __pycache__/
 *.pyc
 
-# Ambientes virtuais
+# Ambientes
 .venv/
 venv/
 env/
 
-# VS Code
-.vscode/
+# Arquivos locais
+.DS_Store
+Thumbs.db
